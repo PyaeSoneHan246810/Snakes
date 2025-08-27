@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Snakes</string>
+    <string name="retry">Retry</string>
+    <string name="error_message">Something went wrong! Please try again.</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="snake_details_unavailable">Snake details are unavailable.</string>
+    <string name="back">Back</string>
+    <string name="poisonous">Poisonous</string>
+    <string name="dangerous">Dangerous</string>
+</resources>
