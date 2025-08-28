@@ -2,7 +2,7 @@
 
 <img width="240" height="240" src="https://github.com/user-attachments/assets/8c00f121-c020-480d-8de1-d80d929e968a" />
 
-This Android app, built with Jetpack Compose, fetches snakes data from an API and allows users to learn about snakes in Burmese.
+This Android app, built with Jetpack Compose, fetches snake data from an API and lets users learn about different species of snakes.
 
 ## Used Technologies
 
